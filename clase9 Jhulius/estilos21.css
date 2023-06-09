@@ -1,0 +1,41 @@
+.titulo{
+border-bottom-width:3px;
+
+border-bottom-style:solid;
+
+border-bottom-color:#0934f7;
+
+}
+
+.libro {
+    border-width:1px;
+    border-style:solid;
+    border-color:#3b3b3b;
+    }
+
+.datos {
+        border-top:3px;
+        border-bottom-width:3px;
+
+        border-top-style:dotted;
+        border-bottom-style:dotted;
+    
+        border-top-color:#ff0000;
+        border-bottom-color:#ff0000;
+        }
+        .datos2 {
+            border-top-width:3px;
+            border-right-width:3px;
+            border-bottom-width:3px;
+            border-left-width:3px;
+
+            border-top-style:dotted;
+            border-right-style:dotted;
+            border-bottom-style:dotted;
+            border-left-style:dotted;
+
+            border-top-color: greenyellow;
+            border-right-color: greenyellow;
+            border-bottom-color: greenyellow;
+            border-left-color: greenyellow;
+            }
