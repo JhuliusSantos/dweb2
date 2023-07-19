@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    text-align: center;
+    background-color: goldenrod;
+    color: palegoldenrod;
+    padding: 20px;
+    text-shadow: 10px 10px 5px gray;
+}
+
+nav ul {
+    background-color: peru;
+    width: 100%;
+    list-style-type: none;
+    text-align: center;
+}
+
+nav ul li {
+    display: inline-flex;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+    width: 150px;
+}
+
+nav ul a:hover {
+    background-color: white;
+    color: #757575;
+}
+
