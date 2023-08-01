@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color:ivory;
+    }
+    h1{
+    text-align: center;
+    color:firebrick ;
+    padding: 20px;
+    text-shadow: 10px 10px 5px gray;
+    }
+
+.f{
+    width: 80px;
+    height: 80px;
+    }
+    .i{   
+    width: 80px;
+    height: 80px;
+    }
+    .w{
+        width: 25px;
+        height: 25px;
+    }
+    .imge{
+        float: right;
+       
+    width: 40px;
+    height: 40px;
+    }
+.contenido{
+display: flex;
+margin: 60px;
+}
+.articulos{
+display: flex;
+align-items: center;
+padding: 40px;
+}
+.linea {
+    border: 3px solid black; 
+}
+h3{
+    text-align: right;
+}
+.u{
+    
+    margin-left: 10px;
+    float: right;
+    width: 300px;
+    height: 300px;
+}
+.d{
+    width: 100%;
+}

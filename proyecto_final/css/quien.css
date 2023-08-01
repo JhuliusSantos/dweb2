@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color:ivory;
+    }
+    h1{
+    text-align: center;
+    color: red;
+    padding: 20px;
+    text-shadow: 10px 10px 5px black;
+    }
+
+.imga{
+    padding-top: 20px;
+    padding-left: 8px;
+    width: 230px;
+    height: 230px;
+    }
+    .imge{
+        padding-left: 95%;
+    width: 40px;
+    height: 40px;
+    }
+.contenido{
+display: flex;
+margin: 60px;
+}
+.secciones{
+width: 80%;
+border-right:3px solid black;
+}
+.articulos{
+display: flex;
+align-items: center;
+padding: 40px;
+}
+.linea {
+    border: 3px solid black; 
+}
+h3{
+    padding-left: 90%;
+}
